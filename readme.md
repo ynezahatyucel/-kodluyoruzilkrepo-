@@ -1,4 +1,4 @@
-#Kodluyoruzilk repo
+# Kodluyoruz ilk repo
 
 Bu dosya kodluyoruz eğitiminde ki ilk repo. içerinde bir adet html ve bir adet readme dosyası içeriyor.
 
